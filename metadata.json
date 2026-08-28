@@ -1,0 +1,6 @@
+{
+  "name": "Acesso Solidário - Plataforma Web Acessível",
+  "description": "Plataforma web inclusiva em conformidade com WCAG 2.2 Nível AA que conecta voluntários a pessoas com necessidades específicas (idosos, PCDs e famílias vulneráveis).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
