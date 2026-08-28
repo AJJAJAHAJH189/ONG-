@@ -40,7 +40,7 @@ export const Header: React.FC<HeaderProps> = ({
     },
     {
       id: 'guia',
-      label: 'Guia WCAG & Pitch',
+      label: 'Diretrizes WCAG 2.2',
       icon: <BookOpen className="w-5 h-5" aria-hidden="true" />,
     },
   ];

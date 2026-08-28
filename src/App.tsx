@@ -344,7 +344,7 @@ export default function App() {
           />
         )}
 
-        {/* Tab 5: Guia WCAG & Pitch */}
+        {/* Tab 5: Diretrizes WCAG 2.2 */}
         {activeTab === 'guia' && (
           <AuditAndPitchGuide announcePolite={announcePolite} />
         )}
