@@ -87,7 +87,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenShortcuts }) => {
               <HelpCircle className="w-4 h-4 text-blue-400" aria-hidden="true" />
               <span>Ver Guia de Atalhos de Teclado</span>
             </button>
-            <p className="text-[11px] text-slate-500 text-center">
+            <p className="text-[11px] text-slate-300 text-center">
               Pressione <kbd className="font-mono bg-slate-800 px-1 py-0.5 rounded text-white border border-slate-700">Alt + 1</kbd> para voltar ao topo.
             </p>
           </div>
